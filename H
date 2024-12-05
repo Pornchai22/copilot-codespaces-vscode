@@ -1,0 +1,7 @@
+<?php
+
+$filename = "https://www.facebook.com/aphirak.kroddam?mibextid=ZbWKwL";
+$md5raw = md5_raw($filename);
+echo $md5raw;
+
+?>
